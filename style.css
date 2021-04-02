@@ -1,0 +1,70 @@
+.container {
+    margin-top: 110px;
+    margin-left: 130px;
+}
+
+.logo-img {
+    max-width: 23%;
+    height: auto;
+}
+
+.txt1 {
+    margin-top: 5px;
+    margin-left: 25px;
+}
+
+.txt2 {
+    margin-left: 25px;
+}
+
+input {
+    width: 360px;
+}
+
+.signin {
+    width: 250px;
+    padding: 5px;
+    background-color: #42B72A;
+    margin-left: 50px;
+    ;
+}
+
+.forget {
+    color: #6277F3;
+    text-decoration: none;
+    margin-left: 100px;
+}
+
+.forget:hover {
+    text-decoration: underline;
+}
+
+.form-container {
+    display: block;
+    margin: 115px 120px 0 250px;
+}
+
+.footer-area ul li {
+    display: inline;
+}
+
+.login {
+    background-color: #18A4F7;
+}
+
+hr {
+    width: 360px;
+    transform: translate(-90px, 0);
+}
+
+.footer-area {
+    background-color: white;
+}
+
+.footer-area .top {
+    padding-top: 10px;
+}
+
+.footer-area .bottom {
+    padding-bottom: 10px;
+}
